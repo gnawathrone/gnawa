@@ -12,8 +12,8 @@
 	"admob": "hado dyal admob li taht",
 
 	"AdmobAppId": "ca-app-pub-1612627398318452~5196972544",
-	"interId": "",
-	"bannerId": "",
+	"interId": "ca-app-pub-1612627398318452/6050039154",
+	"bannerId": "ca-app-pub-1612627398318452/7363120826",
 	"rewardadmob": "",
 
 	"facebook": "badal li ltaht ila bghiti facebook",
